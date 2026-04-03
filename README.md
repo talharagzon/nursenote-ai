@@ -1,2 +1,5 @@
 # nursenote-ai
-AI-powered nurse note-taking
+
+This repository was created by [Inceptzon](https://inceptzon.com).
+
+See `ARCHITECTURE.md` for the full technical architecture document.
